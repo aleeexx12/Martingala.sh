@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Colours
+#Colores/Colours
 greenColour="\e[0;32m\033[1m"
 endColour="\033[0m\e[0m"
 redColour="\e[0;31m\033[1m"
@@ -10,7 +10,7 @@ purpleColour="\e[0;35m\033[1m"
 turquoiseColour="\e[0;36m\033[1m"
 grayColour="\e[0;37m\033[1m"
 
-
+#Salir del programa/Exit the program
 function ctrl_c(){
 	echo -e "\n\n${redColour}[+]Saliendo...${endColour}"
 	exit 1
@@ -90,6 +90,7 @@ function martingala() {
     done
 }
 
+#Options
 while getopts "m:t:h" argumento; do
    case $argumento in
 		m) money=$OPTARG;;
