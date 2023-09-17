@@ -28,7 +28,7 @@ This is a Bash script that simulates the betting strategy known as the 'Martinga
 
 ## Advertencia
 
-Este script es solo una simulación y no se recomienda para su uso en juegos de azar reales. La Martingala puede llevar a grandes pérdidas y no es una estrategia efectiva a largo plazo.
+Este script es solo una simulación y no se recomienda para su uso en juegos de azar reales. La Martingala puede llevar a grandes pérdidas y no es una estrategia efectiva a largo plazo ya que la probabilidad de perder es del 100%.
 
 
 
@@ -55,4 +55,4 @@ Este script es solo una simulación y no se recomienda para su uso en juegos de 
 [!] You can exit the script at any time by pressing Ctrl+C.
 
 ## Warning
-This script is only a simulation and is not recommended for use in real gambling games. The Martingale strategy can lead to significant losses and is not an effective long-term strategy.
+This script is only a simulation and is not recommended for use in real gambling games. The Martingale strategy can lead to significant losses and is not an effective long-term strategy. The strategy guarantees a 100% loss.
