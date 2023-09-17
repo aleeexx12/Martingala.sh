@@ -3,7 +3,7 @@
 Este es un script en Bash que simula la estrategia de apuestas conocida como "Martingala" en el juego de la ruleta. La Martingala es una estrategia de juego que implica duplicar la apuesta después de cada pérdida, con la esperanza de recuperar todas las pérdidas y obtener una ganancia.
 This is a Bash script that simulates the betting strategy known as the 'Martingale' in the game of roulette. The Martingale is a gambling strategy that involves doubling the bet after each loss, with the hope of recovering all losses and making a profit.
 
-#__es_ES____________
+###__es_ES____________
 ## Características
 
 - Simula el juego de la ruleta con la estrategia de la Martingala.
@@ -31,7 +31,7 @@ This is a Bash script that simulates the betting strategy known as the 'Martinga
 Este script es solo una simulación y no se recomienda para su uso en juegos de azar reales. La Martingala puede llevar a grandes pérdidas y no es una estrategia efectiva a largo plazo.
 
 
-#__en_EN_____________
+###__en_EN_____________
 ## Features
 
 - Simulates the roulette game with the Martingale betting strategy.
