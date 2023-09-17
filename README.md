@@ -24,7 +24,7 @@ This is a Bash script that simulates the betting strategy known as the 'Martinga
 -m: La cantidad de dinero disponible.
 -t: La técnica de apuesta (en este caso, "Martingala").
 -h: Panel de ayuda.
-[!]Puedes detener el script en cualquier momento presionando Ctrl+C.
+[!]Puedes salir del script en cualquier momento presionando Ctrl+C.
 
 ## Advertencia
 
@@ -52,7 +52,7 @@ Este script es solo una simulación y no se recomienda para su uso en juegos de 
 -m: The amount of available money.
 -t: The betting technique (in this case, "Martingale").
 -h: Help panel.
-[!] You can stop the script at any time by pressing Ctrl+C.
+[!] You can exit the script at any time by pressing Ctrl+C.
 
 ## Warning
 This script is only a simulation and is not recommended for use in real gambling games. The Martingale strategy can lead to significant losses and is not an effective long-term strategy.
